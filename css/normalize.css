@@ -6,7 +6,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-h1,h2,h3,h4,h5,h6 {font-size: inheirt; font-weight: 400;}
+h1,h2,h3,h4,h5,h6 {font-size: inherit; font-weight: 400;}
 :focus, :active {outline: none;}
 a:focus, a:active {outline: none;}
 a:hover {text-decoration: none;}
@@ -14,7 +14,7 @@ a, a:visited {text-decoration: none;}
 nav, aside, footer, header {display: block;}
 img {vertical-align: top;}
 ul, li {list-style: none;}
-
+input, textarea {color: inherit;}
 html, body {
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     font-size: 14px;
